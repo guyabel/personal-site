@@ -6,6 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Guy Abel # Website name
 baseurl: 'https://guyabel.com/' # Website URL
+# baseurl: ' https://guyabel.github.io/personal-site-public' # Website URL
 copyright: '© {year} Guy Abel' # Footer text, e.g. '© {year} Me'
 
 ############################
