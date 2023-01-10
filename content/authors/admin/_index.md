@@ -2,13 +2,13 @@
 bio: My research interests include migration, statistical programming and demographic methods.
 education:
   courses:
-  - course: Ph.D. Social Statistics and Demography
+  - course: PhD Social Statistics and Demography
     institution: University of Southampton
     year: 2009
-  - course: M.Sc. Social Statistics - Statistics Pathway (with Distinction)
+  - course: MSc Social Statistics (Distinction)
     institution: University of Southampton
     year: 2005
-  - course: MS.c. Statistics (with Distinction)
+  - course: MSc Statistics (Distinction)
     institution: University of Kent
     year: 2003
 email: ""
