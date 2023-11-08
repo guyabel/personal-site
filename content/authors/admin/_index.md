@@ -18,10 +18,8 @@ interests:
 - Migration
 - R
 organizations:
-- name: Shanghai University
-  url: https://www.adri.shu.edu.cn/
-- name: International Institute for Applied Systems Analysis 
-  url: https://iiasa.ac.at/
+- name: University of Hong Kong
+  url: https://sociology.hku.hk/people/abel-guy/
 role: Professor
 social:
 - icon: envelope
@@ -43,10 +41,8 @@ superuser: true
 title: Guy Abel
 ---
 
-I am researcher based at the [Asian Demographic Research Institute](http://adri-shanghai.github.io/) and [IIASA](http://www.iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Introduction.html). I am also a Professor in the [School of Sociology and Political Science](http://en.shu.edu.cn/Default.aspx?tabid=26181) at Shanghai University. 
+I am a statistical demographer working predominantly with migration data to better predict past and future movement patterns and gain a richer understanding of how migration varies by core demographic variables such as age, sex, and education. This website contains posts mainly related to my research, including some information on my [publications](./publication) and use of [R](./tags/r/), including the [packages](./#packages) I have developed.
 
-Previously I worked at the [Vienna Institute of Demography](http://www.oeaw.ac.at/vid/), the [ESRC Centre for Population Change](http://www.cpc.ac.uk/) and [S3RI](http://www.southampton.ac.uk/s3ri/) at the University of Southampton.
-
-My day-to-day research covers estimating migration and applying statistical methods to better forecast components of population change. This website contains posts mainly related to my research, including some information on my [publications](./publication) and use of [R](./tags/r/). The site is the successor to my [WordPress](http://gjabel.wordpress.com/) blog which I had trouble accessing when in China.
+I am based in the [Department of Sociology](https://sociology.hku.hk/) at the University of Hong Kong. Previously, I worked at the [Asian Demographic Research Institute](https://adri.shu.edu.cn/) at Shanghai University, the [Vienna Institute of Demography](http://www.oeaw.ac.at/vid/), the [ESRC Centre for Population Change](http://www.cpc.ac.uk/) and [S3RI](http://www.southampton.ac.uk/s3ri/) at the University of Southampton.
 
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: guy.abel@shu.edu.cn
-phone: +86 021 6613 3271
+email: guyabel@hku.hk
+phone: +852 3917 2057
 address:
-  street: Office 543, School of Sociology and Political Science, Shanghai University, 99 Shangda Road
-  city: Baoshan
-  region: Shanghai. <br> 上海市宝山区上大路99号上海大学东区社会学院大楼543.
+  street: 9.08, 9/F., The Jockey Club Tower, Centennial Campus
+  city: Pokfulam Road
+  region: Hong Kong
   # postcode: '94305'
-  country: China
+  country:  
   # country_code: US
 coordinates:
-  latitude: '31.31544'
-  longitude: '121.39544'
+  latitude: '22.28315'
+  longitude: '114.13436'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
