@@ -41,7 +41,7 @@ superuser: true
 title: Guy Abel
 ---
 
-I am a statistical demographer working predominantly with migration data to better predict past and future movement patterns and gain a richer understanding of how migration varies by core demographic variables such as age, sex, and education. This website contains posts mainly related to my research, including some information on my [publications](./publication) and use of [R](./tags/r/), including the [packages](./#packages) I have developed.
+I am a statistical demographer working predominantly with migration data to better predict past and future movement patterns and gain a richer understanding of how migration varies by core demographic variables such as age, sex, and education. This website contains posts mainly related to my research, including some information on my [publications](./publication) and use of [R](./tags/r/), including [packages](./#packages) I developed.
 
 I am based in the [Department of Sociology](https://sociology.hku.hk/) at the University of Hong Kong. Previously, I have worked in the [Asian Demographic Research Institute](https://adri.shu.edu.cn/) at Shanghai University, the [Vienna Institute of Demography](http://www.oeaw.ac.at/vid/) in the Austrian Academy of Sciences, and the [ESRC Centre for Population Change](http://www.cpc.ac.uk/) and [S3RI](http://www.southampton.ac.uk/s3ri/) at the University of Southampton.
 
