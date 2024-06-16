@@ -90,6 +90,10 @@ There are two further variables that are useful when plotting some specific popu
 
 6. A `pop_max` variable that provides the largest population for a given country and year. I use this for setting x-axis limits when facet plots are used to join together plots for each sex.  
 
+- did this a bit better in SOCI2041 slides 
+- if you want to get pop in millions, do it in the ggplot code
+- use pop_pm for pop plus minus
+
 ```{r}
 d <- d %>%
   group_by(age, year, country_code) %>%
