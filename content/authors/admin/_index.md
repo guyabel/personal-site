@@ -22,21 +22,26 @@ organizations:
   url: https://sociology.hku.hk/people/abel-guy/
 role: Professor
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/guyabel
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=MqztgqsAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-4893-5687
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/ijbeasley.bsky.social
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/guyabelguyabel
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/guyabelguyabel
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=MqztgqsAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/guyabel
 superuser: true
 title: Guy Abel
 ---
