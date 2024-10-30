@@ -22,15 +22,15 @@ organizations:
   url: https://sociology.hku.hk/people/abel-guy/
 role: Professor
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/guyabel
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=MqztgqsAAAAJ
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-4893-5687
+- icon: github
+  icon_pack: fab
+  link: https://github.com/guyabel
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ijbeasley.bsky.social

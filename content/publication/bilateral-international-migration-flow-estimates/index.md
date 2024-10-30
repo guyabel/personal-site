@@ -41,9 +41,9 @@ toc: true
 
 Since the paper was published, I have produced four updates to reflect
 
--   The latest United Nations demographic data released in WPP2019 and WPP2022 (July 19, 2019 and 28 October, 2022)
--   The latest United Nations migrant stock data released in IMS2019 and IMS2020 (October 23, 2019 and February 1, 2021)
--   Corrections for Serbia, Montenegro, Sudan and South Sudan in earlier periods (August 3, 2020)
+- The latest United Nations demographic data released in WPP2019, WPP2022 and WPP2024 (July 19, 2019, 28 October, 2022 and 30 October and 2024)
+- The latest United Nations migrant stock data released in IMS2019 and IMS2020 (October 23, 2019 and February 1, 2021)
+- Corrections for Serbia, Montenegro, Sudan and South Sudan in earlier periods (August 3, 2020)
 
 See the table of contents to jump to a short discussion on each update. The different versions of estimates are all available on [Figshare](https://figshare.com/articles/dataset/Bilateral_international_migration_flow_estimates_for_200_countries_1990-1995_to_2010-2015_/7731233)
 
@@ -158,7 +158,7 @@ The impact of the correction for the four countries on the validation exercise i
 
 ## Version 5: Update for IMS2020
 
-The new UN [International Migrant Stock](https://www.un.org/development/desa/pd/content/international-migrant-stock) (IMS) data came out a few weeks back. I have added another set of flow estimates based on the IMS2020 and WPP2019 to the [Figshare collection](https://figshare.com/collections/Bilateral_international_migration_flow_estimates_for_200_countries/4470464) (the original flow estimates in the paper were based on IMS2017). As the IMS2020 contain bilateral stocks for 2020, it was possible to generate a first set of flow estimates for the 2015-2020 period, show at the end of the animation below for estimates basd on one of the methods covered in the paper:
+The new UN [International Migrant Stock](https://www.un.org/development/desa/pd/content/international-migrant-stock) (IMS) data came out a few weeks back. I have added another set of flow estimates based on the IMS2020 and WPP2019 to the [Figshare collection](https://figshare.com/collections/Bilateral_international_migration_flow_estimates_for_200_countries/4470464) (the original flow estimates in the paper were based on IMS2017). As the IMS2020 contain bilateral stocks for 2020, it was possible to generate a first set of flow estimates for the 2015-2020 period, shown at the end of the animation below for estimates based on one of the methods covered in the paper:
 
 <style>
 video {
@@ -208,19 +208,7 @@ Towards the start of this year our paper based on sex-specific flow estimates wa
 
 The WPP data are now annual, running between 1st January and 31st December for each measure. This differs to the migrant stock data that are aligned at the 1st July in five-year intervals. Consequently, I had to do some extra coding to interpolate the WPP2022 demographic data to five-year summary measures that match the intervals in the migrant stock data and obtain the five-year flow estimates.
 
-Below are a few plots to give some visual summaries of the new estimates and their changes relative to previous versions alongside some discussion, starting with an animated chord diagram of the updated region to region flow estimates over time:
-
-<style>
-video {
-  /* override other styles to make responsive */
-  width: 100%    !important;
-  height: auto   !important;
-  max-height: 720px
-}
-</style>
-<video loop="loop" width="720" height="720" poster="v6-flow.png" controls>
-<source src="v6-flow.mp4" type="video/mp4" />
-</video>
+Below are a few plots to give some visual summaries of the new estimates and their changes relative to previous versions alongside some discussion.
 
 #### Comparison to past estimates
 
@@ -243,3 +231,78 @@ The impact of the revision in WPP data on the validation exercises is more prono
 
 ![](v6-val_all.gif)
 There biggest changes are the drops in the correlations for the estimates based on demographic accounting approaches, especially in the immigration and emigration rate measures. The general ordering of preferences between the estimates from different methods, based on the highest levels of correlation, remain unchanged.
+
+<a id="WPP2024"></a>
+
+## Version 7: Update for WPP2024
+
+The latest UN [World Population Prospects](https://population.un.org/wpp/) (WPP) data came out during the summer. I have updated the flow estimates in the the [Figshare collection](https://figshare.com/collections/Bilateral_international_migration_flow_estimates_for_200_countries/4470464) based on the IMS2020 and WPP2024 (the original flow estimates in the paper were based on IMS2017 and WPP2017). There is one additional country/territory in this edition of the flow estimates, formed from combining the Guernsey and Jersey data in WPP2024 to match the Channel Islands data in the migrant stock data (IMS2020). I have also updated the [sex-specific](https://www.nature.com/articles/s41597-022-01271-z) flow estimates for WPP2024 in the separate [Figshare collection](https://figshare.com/collections/Bilateral_international_migration_flow_estimates_by_sex/5800838).
+
+Below is some plots and discussion on the new estimates and their changes relative to previous versions, starting with an animated chord diagram of the updated region to region flow estimates over time:
+
+<style>
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+  max-height: 720px
+}
+</style>
+<video loop="loop" width="720" height="720" poster="v7-flow.png" controls>
+<source src="v7-flow.mp4" type="video/mp4" />
+</video>
+
+#### Comparison to past estimates
+
+The plot of the totals migration flows, shown in [Figure 2](https://www.nature.com/articles/s41597-019-0089-3#Fig2) in the paper, is updated below with the new estimates
+
+![](v7-tot6.png)
+
+The evolution of the changes in the estimates from different revisions in the input data can be seen below; transitioning from 1) the estimates in the paper to 2) the first update (version 2) of the estimates from changes in the demographic data to 3) the second and third updates for changes in the stock data (version 4 and 5) to the 5) updates based on WPP2022 and WPP2024 (version 7, the same as the plot above).
+
+![](v7-tot.gif)
+
+The further rise in the level of the estimates from the demographic accounting and migration rates methods are a result some dramatic revisions in the birth, death and population data in WPP2024 compared to WPP2022. As in the previous update, the changes in the demographic data and their impact on the estimated migration flows can be best viewed from inspecting the biggest changes in net migration between WPP2019 and WPP2022, which are implied constraints in the demographic accounting flow estimation procedures.
+
+<style>
+.carousel-indicators {
+  bottom:-3%
+}
+.carousel-indicators > li,
+.carousel-indicators > li.active{
+    width: 40%;
+    height: 2%;
+    border-radius: 0;
+    border: solid 1px grey;
+    background: transparent;
+    text-indent: 0;
+    text-align: center;
+}
+.carousel-indicators > li.active {
+    background: #4caf50;
+}
+</style>
+&#10;<div id="carousel_img" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target="#carousel_img" data-slide-to="0" class="active">Annual Data</li>
+    <li data-target="#carousel_img" data-slide-to="1">Five-Year Equivalent</li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="v7-wpp_annual_big_changes.png">
+    </div>
+    <div class="carousel-item">
+      <img src="v7-wpp_big_changes.png">
+    </div>
+  </div>
+</div>
+<br>
+
+As with the last update, the revisions in net migration are on a much larger scale than the [previous changes](#WPP2019) between WPP2017 and WPP2019. For Bangladesh, where the largest revision occurs, has a net migration loss in WPP2024 is approximately 5 million in the last two five-year periods (2010-2015 and 2015-2020). In WPP2022, in the same periods, the net migration loss was just over 1 million. The UN DESA provide no information on such big revisions, and it remains to be seen if they will coincide with rises in Bangladeshi born populations abroad in forthcoming migrant stock data. Other large revisions are noticeable in other major migration sending and receiving countries between 1990 and 2020. The revisions in the demographic data have sizable impacts for the bilateral flow estimates, especially those based on the closed demographic accounting methods which are implicitly constrained to match the WPP net migration.
+
+#### Impact on validation exercise
+
+Below is an update of the animated version of [Figure 4](https://www.nature.com/articles/s41597-019-0089-3#Fig4) in the paper, showing the correlations between the flow estimates and reported data for various migration measures, for the original estimates and subsequent updates based on new WPP and IMS data.
+
+![](v6-val_all.gif)
+The biggest changes, compared with the previous update, are correlations for the net migration data with the net migration estimates based on stock differencing approaches. The general ordering of preferences between the estimates from different methods, based on the highest levels of correlation, remain unchanged.
