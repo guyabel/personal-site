@@ -14,7 +14,7 @@ authors = ["Guy J. Abel", "Michael Brottrager", "Jesus Crespo Cuaresma", "Raya M
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Global Environmental Change*, 54, 239--249"
@@ -63,4 +63,11 @@ image = "headers/gec2019.jpg"
 caption = "Climate, Conflict and Forced Migration"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1016/j.gloenvcha.2018.12.003" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1016/j.gloenvcha.2018.12.003" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
 

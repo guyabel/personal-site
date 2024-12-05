@@ -15,7 +15,7 @@ authors = ["Robert M. Beyer", "Jacob Schewe", "Guy J. Abel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Frontiers in Climate* 5, e1212649"
@@ -64,3 +64,10 @@ highlight = true
 # caption = "The form and evolution of international migration networks, 1990–2015"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.3389/fclim.2023.1212649" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.3389/fclim.2023.1212649" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>

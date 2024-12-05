@@ -14,7 +14,7 @@ authors = ["Guy J. Abel", "Dilek Yildiz"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Regional Studies, Regional Science* 9 (1), 523-525."
@@ -63,3 +63,10 @@ image = "headers/rsrs_a_2096478_f0001_oc.jpeg"
 caption = "Double reported European migration flows statistics before and after European Commission Regulation No. 862/2007."
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1080/21681376.2022.2096478" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1080/21681376.2022.2096478" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>

@@ -14,7 +14,7 @@ authors = ["Guy J. Abel", "Nayoung Heo"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Environment and Planning A: Economy and Space*, 50 (5), 941-944."
@@ -63,6 +63,13 @@ image = "headers/plot_srm2.png"
 caption = "Sex Ratios in Marital Ages 2015"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="doi/10.1177/0308518X18756640" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="doi/10.1177/0308518X18756640" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
 
 ## Further Notes
 

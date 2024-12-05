@@ -16,7 +16,7 @@ authors = ["Guy J. Abel", "James Raymer", "Qing Guan"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Asian Population Studies*. 15 (3), 243--265."
@@ -65,3 +65,9 @@ caption = "Driving Factors of Asian International Migration Flows"
 
 +++
 
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1080/17441730.2019.1664526" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1080/17441730.2019.1664526" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>

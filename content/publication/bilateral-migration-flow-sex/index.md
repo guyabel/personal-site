@@ -14,7 +14,7 @@ authors = ["Guy J. Abel", "Joel E. Cohen"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Scientific Data* 173 (9)."
@@ -63,6 +63,13 @@ highlight = true
 # caption = "Bilateral international migration flow estimates by sex"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1038/s41597-022-01271-z" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1038/s41597-022-01271-z" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
 
 Follow the links above to download the data. Below are a couple of extra animations I created to show some of the data. These were created using in  [R](https://guyabel.com/categories/r/)  using code adapted from this [post](https://guyabel.com/post/animated-directional-chord-diagrams/)
 

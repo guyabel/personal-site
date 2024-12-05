@@ -5,15 +5,14 @@ authors:
 - Joel E. Cohen
 date: "2019-06-17"
 featured: true
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+header:
+  image: 'headers/global-flow-200.png'
+  caption: 'Global migration flow estimates'
   focal_point: ""
-  preview_only: true
 projects: []
 publication: '*Scientific Data*, (6) 82.'
 publication_short: ""
 publication_types:
-- "2"
 publishDate: "2019-06-17T00:00:00Z"
 slides: 
 summary: 
@@ -37,9 +36,25 @@ toc: true
 <script src="{{< blogdown/postref >}}index_files/pymjs/pym.v1.js"></script>
 <script src="{{< blogdown/postref >}}index_files/widgetframe-binding/widgetframe.js"></script>
 
+<div style="display:inline-block; vertical-align:top">
+
+<div class="altmetric-embed" data-doi="10.1038/s41597-019-0089-3" data-badge-type="medium-donut" data-hide-no-mentions="true" data-badge-popover="right">
+
+</div>
+
+</div>
+
+<div style="display: inline-block">
+
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41597-019-0089-3" data-hide-zero-citations="true">
+
+</div>
+
+</div>
+
 ## Updates
 
-Since the paper was published, I have produced four updates to reflect
+Since the paper was published, I have produced seven updates to reflect
 
 - The latest United Nations demographic data released in WPP2019, WPP2022 and WPP2024 (July 19, 2019, 28 October, 2022 and 30 October and 2024)
 - The latest United Nations migrant stock data released in IMS2019 and IMS2020 (October 23, 2019 and February 1, 2021)

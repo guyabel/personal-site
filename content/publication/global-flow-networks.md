@@ -14,7 +14,7 @@ authors = ["Guy J. Abel", "Jack DeWaard", "Jasmine Trang Ha", "Zack W. Almquist"
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Population Space and Place* 27 (3), e2432."
@@ -63,3 +63,10 @@ image = "headers/global-networks.png"
 caption = "The form and evolution of international migration networks, 1990–2015"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1002/psp.2432" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1002/psp.2432" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>

@@ -14,7 +14,7 @@ authors = ["Guy J. Abel", "Stuart Gietel-Basten"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Environment and Planning A: Economy and Space* 52 (8) 1480-1482."
@@ -63,6 +63,13 @@ image = "headers/remit.png"
 caption = "International remittance flows and the economic and social consequences of COVID-19"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1177/0308518X20931111" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1177/0308518X20931111" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
 
 ### Animated Version
 

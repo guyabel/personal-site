@@ -14,10 +14,10 @@ authors = ["Guy J. Abel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Migration Review*, 52 (3), 809--852."
+publication = "*International Migration Review*, 52 (3), 809--852."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -64,6 +64,15 @@ image = "headers/gfest3.png"
 caption = "Estimated Migration Flows by Gender during 2010-15"
 
 +++
+
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1111/imre.12327" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1111/imre.12327" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
+
 
 ## Further Notes
 

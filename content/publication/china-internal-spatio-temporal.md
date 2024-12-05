@@ -14,7 +14,7 @@ authors = ["Ke Wenqian", "Zhu Yu", "Chen Chen", "Guy J. Abel", "Lin Liyue", "Lin
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Acta Geographica Sinica* 77 (2) 411-425."
@@ -59,7 +59,15 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/rsrs_a_2096478_f0001_oc.jpeg"
-caption = "Double reported European migration flows statistics before and after European Commission Regulation No. 862/2007."
+# image = "headers/rsrs_a_2096478_f0001_oc.jpeg"
+# caption = "Double reported European migration flows statistics before and after European Commission Regulation No. 862/2007."
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.11821/dlxb202202010" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.11821/dlxb202202010" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
+

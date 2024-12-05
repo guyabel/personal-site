@@ -15,7 +15,7 @@ authors = ["Nayoung Heo", "Hsin-Chieh Chang", "Guy J. Abel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Cities* 137, 104315"
@@ -64,3 +64,11 @@ image = "headers/taiwan.png"
 caption = "Investigating the distribution of university alumni populations within South Korea and Taiwan based on data from the LinkedIn advertising platform"
 
 +++
+
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1016/j.cities.2023.104315" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+  </div>
+<div style="display: inline-block">
+   <div data-doi="10.1016/j.cities.2023.104315" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
+
