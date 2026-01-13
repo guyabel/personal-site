@@ -2,7 +2,7 @@
 title: "The evolution of squad compositions at UEFA European Championships"
 subtitle: Visualising where national team players live using chord diagrams.
 # summary: 👋 We know that first impressions are important
-date: '2024-06-16'
+date: '2024-06-17'
 draft: false
 featured: false
 authors:
