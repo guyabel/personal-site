@@ -12,7 +12,7 @@ projects: []
 publication: '*Nature*. Advance online publication.'
 publication_short: "Nature"
 publication_types: ["2"]
-publishDate: "2026-06-10T00:00:00Z"
+publishDate: "2026-06-09T00:00:00Z"
 buildFuture: true
 slides: 
 title: "Deep learning four decades of human migration"
