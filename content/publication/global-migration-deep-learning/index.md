@@ -51,3 +51,11 @@ An interactive website visualising the global migration estimates can be found a
 <source src="preview.mp4" type="video/mp4"/>
 </video>
 
+<video loop="loop" controls>
+<source src="preview-chord.mp4" type="video/mp4"/>
+</video>
+
+<video loop="loop" controls>
+<source src="preview-sankey.mp4" type="video/mp4"/>
+</video>
+
