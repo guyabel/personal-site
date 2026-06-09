@@ -37,3 +37,21 @@ toc: true
 <div style="display: inline-block">
    <div data-doi="10.1073/pnas.2409418122" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
 </div>
+
+
+## Further Notes
+
+<style>
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+  max-height: 720px
+}
+</style>
+
+Article by the New York Times on the data https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data.html
+
+<video loop="loop" controls>
+<source src="preview.mp4" type="video/mp4"/>
+</video>
