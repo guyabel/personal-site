@@ -18,7 +18,7 @@ authors = ["Venla Niva", "Alexander Horton", "Vili Virkki", "Matias Heino", "Mar
 # publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Nature Human Behaviour* (Online first)"
+publication = "In *Nature Human Behaviour*"
 publication_short = ""
 
 # Abstract and optional shortened version.

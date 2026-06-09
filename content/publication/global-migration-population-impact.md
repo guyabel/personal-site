@@ -17,7 +17,7 @@ authors = ["Elin Charles-Edwards", "Aude Bernard", "Francisco Rowe", "Guy J. Abe
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Migration Review* (Online first)"
+publication = "In *International Migration Review* Volume 59, Issue 2"
 publication_short = ""
 
 # Abstract and optional shortened version.

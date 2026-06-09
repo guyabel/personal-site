@@ -4,7 +4,7 @@ authors:
 - admin
 - Joel E. Cohen
 date: "2019-06-17"
-featured: true
+featured: false
 header:
   image: 'headers/global-flow-200.png'
   caption: 'Global migration flow estimates'
@@ -33,15 +33,22 @@ toc: true
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-:::: {style="display:inline-block; vertical-align:top"}
-::: {.altmetric-embed data-doi="10.1038/s41597-019-0089-3" data-badge-type="medium-donut" data-hide-no-mentions="true" data-badge-popover="right"}
-:::
-::::
+<div style="display:inline-block; vertical-align:top">
+   <div data-doi="10.1038/s41597-019-0089-3" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
+</div>
+<div style="display: inline-block">
+   <div data-doi="10.1038/s41597-019-0089-3" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+</div>
 
-:::: {style="display: inline-block"}
-::: {.__dimensions_badge_embed__ data-doi="10.1038/s41597-019-0089-3" data-hide-zero-citations="true"}
-:::
-::::
+<!-- :::: {style="display:inline-block; vertical-align:top"} -->
+<!-- ::: {.altmetric-embed data-doi="10.1038/s41597-019-0089-3" data-badge-type="medium-donut" data-hide-no-mentions="true" data-badge-popover="right"} -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- :::: {style="display: inline-block"} -->
+<!-- ::: {.__dimensions_badge_embed__ data-doi="10.1038/s41597-019-0089-3" data-hide-zero-citations="true"} -->
+<!-- ::: -->
+<!-- :::: -->
 
 ## Updates
 
