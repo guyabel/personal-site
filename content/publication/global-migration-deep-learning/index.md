@@ -48,7 +48,7 @@ video {
 An interactive website visualising the global migration estimates can be found at https://www.socsc.hku.hk/rhps/global-migration/
 
 <video loop="loop" controls>
-<source src="preview.mp4" type="video/mp4"/>
+<source src="preview-map.mp4" type="video/mp4"/>
 </video>
 
 <video loop="loop" controls>

@@ -55,3 +55,11 @@ Article by the New York Times on the data https://www.nytimes.com/interactive/20
 <video loop="loop" controls>
 <source src="preview.mp4" type="video/mp4"/>
 </video>
+
+They also produced an interactive tool https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data-interactive-tool.html
+
+<video loop="loop" controls>
+<source src="preview-data-explorer.mp4" type="video/mp4"/>
+</video>
+
+Unfortunately both are behind their paywall.
