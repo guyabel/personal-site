@@ -19,7 +19,7 @@ title: "Deep learning four decades of human migration"
 doi: "10.1038/s41586-026-10611-7"
 url_code: "https://github.com/ThGaskin/Migration_flows"
 url_dataset: "https://zenodo.org/records/15778301"
-url_pdf: ""
+url_pdf: "https://www.nature.com/articles/s41586-026-10611-7.pdf"
 url_poster: ""
 url_project: "https://www.socsc.hku.hk/rhps/global-migration/"
 url_source: ""
@@ -31,7 +31,7 @@ toc: true
    <div data-doi="10.1038/s41586-026-10611-7" data-badge-type='medium-donut' class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover='right' ></div>
 </div>
 <div style="display: inline-block; vertical-align:top;">
-   <div data-doi="10.1038/s41586-026-10611-7" class="__dimensions_badge_embed__" data-hide-zero-citations="true"></div>
+   <div data-doi="10.1038/s41586-026-10611-7" class="__dimensions_badge_embed__ " data-hide-zero-citations="true"></div>
 </div>
 
 ## Further Notes
@@ -48,14 +48,5 @@ video {
 An interactive website visualising the global migration estimates can be found at https://www.socsc.hku.hk/rhps/global-migration/
 
 <video loop="loop" controls>
-<source src="preview-map.mp4" type="video/mp4"/>
+<source src="preview.mp4" type="video/mp4"/>
 </video>
-
-<video loop="loop" controls>
-<source src="preview-chord.mp4" type="video/mp4"/>
-</video>
-
-<video loop="loop" controls>
-<source src="preview-sankey.mp4" type="video/mp4"/>
-</video>
-
