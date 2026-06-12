@@ -408,9 +408,12 @@ The new estimates include migration flows for Taiwan, which were previously comb
 
 Below are a few plots to give some visual summaries of the changes in the estimates compared to previous versions.
 
+<a id="tot-v8"></a>
+
 #### Comparison to past estimates
 
 The plot of the total migration flows, shown in [Figure 2](https://www.nature.com/articles/s41597-019-0089-3#Fig2) in the paper, is updated below with the new estimates.
+
 
 ![](v8-tot7.png)
 

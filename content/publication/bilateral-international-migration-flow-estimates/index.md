@@ -4,7 +4,7 @@ authors:
 - admin
 - Joel E. Cohen
 date: "2019-06-17"
-featured: true
+featured: false
 header:
   image: 'headers/global-flow-200.png'
   caption: 'Global migration flow estimates'
@@ -30,13 +30,21 @@ toc: true
 ---
 
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/pymjs/pym.v1.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/widgetframe-binding/widgetframe.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/pymjs/pym.v1.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/widgetframe-binding/widgetframe.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/pymjs/pym.v1.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/widgetframe-binding/widgetframe.js"></script>
 
 <div style="display:inline-block; vertical-align:top">
@@ -49,11 +57,27 @@ toc: true
 
 <div style="display: inline-block">
 
-::: {.\_\_dimensions_badge_embed\_\_ data-doi=“10.1038/s41597-019-0089-3” data-hide-zero-citations=“true”}
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41597-019-0089-3" data-hide-zero-citations="true">
 
 </div>
 
-::::
+</div>
+
+<!-- :::: {style="display:inline-block; vertical-align:top"} -->
+
+<!-- ::: {.altmetric-embed data-doi="10.1038/s41597-019-0089-3" data-badge-type="medium-donut" data-hide-no-mentions="true" data-badge-popover="right"} -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- :::: {style="display: inline-block"} -->
+
+<!-- ::: {.__dimensions_badge_embed__ data-doi="10.1038/s41597-019-0089-3" data-hide-zero-citations="true"} -->
+
+<!-- ::: -->
+
+<!-- :::: -->
 
 ## Updates
 
@@ -164,6 +188,7 @@ I have added a few plots below to give some summaries of the changes in the upda
 The plot below shows the relationship between the bilateral flow estimates based on the last update based on IMS2019 and WPP2019 and the newer estimates with the correction for the four countries.
 
 <!-- In all periods the estimates for 2005-2010 and 2010-2015 remain unchanged, hence all points are on the diagonal line. In earlier periods there are a small number of bilateral estimates from the rates and demographic accounting methods. For the demographic accounting methods this is due to the combining of data for the four countries allowing the IPF routines to fully converge. The biggest changes occur in estimates between African countries from the correction to Sudanese and South Sudanese born populations. For the rates method all estimates are revised from the change in the global migration flow total, obtained from the sum of net migration flows.  -->
+
 <!-- ![ ](v4-compare.png) -->
 
 #### Impact on validation exercise
@@ -186,8 +211,11 @@ video {
   max-height: 720px
 }
 </style>
+
 <video loop="loop" width="720" height="720" poster="v5-flow.png" controls>
+
 <source src="v5-flow.mp4" type="video/mp4" />
+
 </video>
 
 Below are a few plots to give some visual summaries of the changes in the estimates compared to previous versions.
@@ -195,7 +223,9 @@ Below are a few plots to give some visual summaries of the changes in the estima
 #### Comparison to past estimates
 
 <!-- The plot below shows the relationship between the bilateral flow estimates based on IMS2019 and WPP2019 (previous update) and IMS2019 - WPP2019 (this update) from each period and estimation method. -->
+
 <!-- ![ ](v5-compare.png) -->
+
 <!-- As with the previous updates, all methods (columns) see some changes in the flows estimates, which tend to be larger in more recent periods (lower rows) and estimation methods based on demographic accounting (columns to the right).  -->
 
 The plot of the total migration flows, shown in [Figure 2](https://www.nature.com/articles/s41597-019-0089-3#Fig2) in the paper, is updated below with the new estimates, including the new values for 2015-2020.
@@ -264,8 +294,11 @@ video {
   max-height: 720px
 }
 </style>
+
 <video loop="loop" width="720" height="720" poster="v7-flow.png" controls>
+
 <source src="v7-flow.mp4" type="video/mp4" />
+
 </video>
 
 #### Comparison to past estimates
@@ -336,13 +369,18 @@ video {
   max-height: 720px
 }
 </style>
+
 <video loop="loop" width="720" height="720" poster="v8-flow.png" controls>
+
 <source src="v8-flow.mp4" type="video/mp4" />
+
 </video>
 
 The new estimates include migration flows for Taiwan, which were previously combined with those for Mainland China. Sint Maarten and Curaçao now have flow estimates for the entire period, whereas previously, there was no migrant stock data available in these countries to enable flow estimation before 2005 and 2010, respectively.
 
 Below are a few plots to give some visual summaries of the changes in the estimates compared to previous versions.
+
+<a id="tot-v8"></a>
 
 #### Comparison to past estimates
 
